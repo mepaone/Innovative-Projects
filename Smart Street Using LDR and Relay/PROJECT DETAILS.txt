@@ -1,0 +1,24 @@
+1. COPY THIS "https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json" AND PASTE 
+    IT IN THE SETTINGS<ADDITIONAL BOARD MANAGER AND CLICK ON OK.
+   
+2. GO TO TOOLS<BOARD<BOARD MANAGER< Type "ESP32" < install and click on ok.
+
+3. Download and Open The ".ino" , 
+        ->select the board from tools<boards<ESP8285.
+        ->select the PORT.
+        
+PIN CONFIG:
+
+1.RELAY     
+     NODE PIN ---- RELAY PIN
+     D4    -----> IN
+     3V3   -----> VCC
+     GND   -----> GND
+
+2.LDR
+
+    NODE PIN ----- LDR PIN
+     AO    -----    DO
+     3V3   -----    VCC
+     GND   -----    GND
+
