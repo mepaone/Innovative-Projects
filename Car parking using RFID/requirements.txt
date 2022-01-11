@@ -1,0 +1,15 @@
+required components for this project
+
+1.ARDUINO UNO
+2.RFID RC522
+3.SERVO
+4.LCD WITH I2C MODULE
+5.IR SENSOR
+6.SOME CONNECTING WIRES
+
+NOTE:
+
+MAKE SURE YOU IMPORT THE LIBRARIES FROM THE GITHUB REPOSITORY
+AND ADD THAT TO THE ARDUINO IDE
+open Arduino IDE and go to Sketch >Include Library > Add.ZIP Library. 
+Next select the downloaded ZIP file and click OPEN.
